@@ -1,0 +1,7 @@
+INSERT INTO StudentRecordTB (studentId, firstName, lastName, middleName, houseNo, brgyName, municipality, province, region, country, birthdate, age, studContactNo, emailAddress, guardianFirstName, guardianLastName, hobbies, nickname, courseId, yearId)
+VALUES 
+(1, 'khean', 'delacrus', 'A.', 123, 'Bautista', 'bayambang', 'Pangasinan', 'Region I', 'Philippines', '2000-02-01', 25, '12345678904234', 'kheandealcruz@gmail.com', 'Jane', 'delacruz', 'Reading', 'John', 1, 1),
+(2, 'edwar', 'Richards', 'B.', 456, 'Bical sur', 'Bayambang', 'Pangasinan', 'Region I', 'Philippines', '2001-02-03', 24, '09854331221', 'edward321@gmail.com', 'hiya', 'Richards', 'riders', 'Als', 2, 2),
+(3, 'Alice', 'guico', 'C.', 789, 'bica Norte', 'Bayambang', 'Pangasinan', 'Region I', 'Philippines', '2025-03-03', 23, '11344das55', 'alice.guico@gmail.com', 'farm', 'Guico', 'cyclist', 'Alna', 3, 3),
+(4, 'Edward', 'soriano', 'D.', 101, 'Tobak', 'Bayambang', 'Pangasinan', 'Region I', 'Philippines', '2012-04-04', 22, '66778832200', 'edward.soriano@gmail.com', 'Sarah', 'soriano', 'swimmer', 'Eddy', 4, 4),
+(5, 'ej ', 'zaragoza', 'A.', 202, 'zone3', 'bautista', 'Pangasinan', 'Region I', 'Philippines', '2003-06-01', 21, '09099941234', 'jonejzaragoza@gmail.com', 'elmer', 'zaragoza', 'Gaming', 'ej', 1, 1);
